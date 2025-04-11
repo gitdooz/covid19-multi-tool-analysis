@@ -9,4 +9,13 @@ Este projeto apresenta uma análise exploratória e visual da pandemia de Covid-
 - Jupyter Notebook / Google Colab
 
 ## 📂 Estrutura do Projeto
-📁 covid19-multi-tool-analysis/├── data/ # Dados brutos ├── notebooks/ # Códigos em Python ├── sql/ # Consultas SQL ├── excel/ # Dashboard e análise ├── README.md
+📁 covid19-multi-tool-analysis/
+├── data/ 
+# Dados brutos 
+├── notebooks/ 
+# Códigos em Python 
+├── sql/ 
+# Consultas SQL 
+├── excel/ 
+# Dashboard e análise 
+├── README.md
